@@ -1,5 +1,5 @@
 import os
-var1=input("Desea crear la carpeta c:/claveswifi para geerar el archivo? S/N: ").upper()
+var1=input("Desea crear la carpeta c:/claveswifi para geerar el archivo?  S/N: ").upper()
 if var1=="S":
     cmd3="md c:\claveswifi"
     runcmd3=os.popen(cmd3)
