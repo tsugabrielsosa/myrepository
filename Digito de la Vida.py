@@ -8,4 +8,4 @@ else:
             the_sum += int(dig)
         print(date)
         date = str(the_sum)
-    print("Tu Dígito de la Vida es: " + date)
+    print("Tu Dígito de la Vida es:" + date)
